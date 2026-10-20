@@ -9,6 +9,7 @@ This project combines data processing, machine learning, model evaluation, and i
 ## Project Resources
 
 - **Live Dashboard:** ([https://share.streamlit.io/](https://amr-surveillance-dashboard.streamlit.app/))
+- **Link Colab:** (https://colab.research.google.com/drive/17YmZp-GXu07DcFkLEeZmSE50N3_g8kzx?usp=sharing)
 
 ## Repository Structure
 
